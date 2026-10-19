@@ -1,1 +1,3 @@
-# the2049pool.github.io
+# 2049 NBA Pool Report
+
+Updated every Monday.
